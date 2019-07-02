@@ -39,6 +39,7 @@
 
 | Number | Title | Author | Track | Status |
 | --- | --- | --- | --- | --- |
+| [LEP-0001](LEP-0001.md) | Base58 Libra Address Encoding | LibraAPIs | Standard | Draft |
 | [LEP-0010](LEP-0010.md) | libra.toml specification | LibraAPIs | Standard | Draft |
 | [LEP-0011](LEP-0011.md) | Federation Protocol | LibraAPIs | Standard | Draft |
 | [LEP-0012](LEP-0012.md) | Payment URI Scheme | LibraAPIs | Standard | Draft |
